@@ -1,11 +1,13 @@
 html{
   font-size: 20px;
+
 }
-body{
+body,html{
   background-color: black;
   padding: 0;
   margin: 0;
   font-family: sans-serif;
+  background: url(http://www.planwallpaper.com/static/images/recycled_texture_background_by_sandeep_m-d6aeau9_PZ9chud.jpg) bottom center;
 }
 .keys{
   display: flex;
